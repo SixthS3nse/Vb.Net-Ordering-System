@@ -1,0 +1,29 @@
+C:\Users\Hp\source\repos\Assignment\Assignment\obj\Debug\Assignment.vbprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Assignment\Assignment\obj\Debug\Assignment.Form1.resources
+C:\Users\Hp\source\repos\Assignment\Assignment\obj\Debug\Assignment.Resources.resources
+C:\Users\Hp\source\repos\Assignment\Assignment\obj\Debug\Assignment.vbproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Assignment\Assignment\obj\Debug\Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\bin\Debug\Assignment.xml
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\obj\Debug\Assignment.vbprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\obj\Debug\Assignment.Form1.resources
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\obj\Debug\Assignment.Resources.resources
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\obj\Debug\Assignment.vbproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\obj\Debug\Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\obj\Debug\Assignment.xml
+C:\Users\Hp\Desktop\Apu Assignment(Offline)\Certificate in Computing& Technology\Semester 3\Visual Programming\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\obj\Debug\Assignment.vbprojAssemblyReference.cache
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\obj\Debug\Assignment.Form1.resources
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\obj\Debug\Assignment.Resources.resources
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\obj\Debug\Assignment.vbproj.GenerateResource.cache
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\obj\Debug\Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\obj\Debug\Assignment.exe
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\obj\Debug\Assignment.xml
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\bin\Debug\Assignment.exe
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Hp\Desktop\VB Assignment(Lastest Version)\Assignment\bin\Debug\Assignment.xml
